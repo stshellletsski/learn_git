@@ -7,4 +7,8 @@
 7) git add . - adds all files in directory to staging area
 8) git diff <filename> - shows difference between working directory and commited file
 9) git checkout <filename> - rollback to last committed version (head)
-10)  
+10) git remote add origin <url> - add remote repo at url
+11) git push -u <remote name - origin> <branch name - main>
+12) git rm --cached -r . - removes all files from staged
+
+13) git clone <url> . - clones a remote repo onto local repo
